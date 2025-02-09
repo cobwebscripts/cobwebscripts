@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **cobwebscripts/cobwebscripts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# 🕷 Cobwebscripts GitHub Profile README 🕸
+
+## About Me
+* I practice by making garbage 🗑🕸.
+* You can browse my GitHub pages at [cobwebscripts.com](cobwebscripts.com).
+* I'm open to chatting, so don't be shy.
+* My contact info can be found at [https://cobwebscripts.com/about.html](https://cobwebscripts.com/about.html).
